@@ -18,8 +18,8 @@ if [ -z "$GITHUB_TOKEN" ]; then
 else
   msg='来自github actions的自动部署'
   githubUrl=https://xugaoyi:${GITHUB_TOKEN}@github.com/xugaoyi/vuepress-theme-vdoing.git
-  git config --global user.name "xugaoyi"
-  git config --global user.email "894072666@qq.com"
+  git config --global user.name "vanhung"
+  git config --global user.email "vanhung4499@gmail.com"
 fi
 git init
 git add -A

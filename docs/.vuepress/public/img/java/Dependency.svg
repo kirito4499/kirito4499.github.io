@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="239px" preserveAspectRatio="none" style="width:345px;height:239px;background:#FFFFFF;" version="1.1" viewBox="0 0 345 239" width="345px" zoomAndPan="magnify"><defs/><g><rect height="26.2969" id="_title" style="stroke:#00000000;stroke-width:1.0;fill:none;" width="106" x="112.5" y="5"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="96" x="117.5" y="22.9951">Dependency</text><!--MD5=[3aa0d89c6bfdcbf7f32042cedac57549]
+class Vehicle--><g id="elem_Vehicle"><rect codeLine="3" fill="#F1F1F1" height="64.2969" id="Vehicle" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="163" x="83.5" y="44.2969"/><ellipse cx="134.25" cy="60.2969" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M136.5938,55.9688 C135.6563,55.5313 135.0625,55.3906 134.1875,55.3906 C131.5625,55.3906 129.5625,57.4688 129.5625,60.1875 L129.5625,61.3125 C129.5625,63.8906 131.6719,65.7813 134.5625,65.7813 C135.7813,65.7813 136.9375,65.4844 137.6875,64.9375 C138.2656,64.5313 138.5938,64.0781 138.5938,63.6875 C138.5938,63.2344 138.2031,62.8438 137.7344,62.8438 C137.5156,62.8438 137.3125,62.9219 137.125,63.1094 C136.6719,63.5938 136.6719,63.5938 136.4844,63.6875 C136.0625,63.9531 135.375,64.0781 134.6094,64.0781 C132.5625,64.0781 131.2656,62.9844 131.2656,61.2813 L131.2656,60.1875 C131.2656,58.4063 132.5156,57.0938 134.25,57.0938 C134.8281,57.0938 135.4375,57.25 135.9063,57.5 C136.3906,57.7813 136.5625,58 136.6563,58.4063 C136.7188,58.8125 136.75,58.9375 136.8906,59.0625 C137.0313,59.2031 137.2656,59.3125 137.4844,59.3125 C137.75,59.3125 138.0156,59.1719 138.1875,58.9531 C138.2969,58.7969 138.3281,58.6094 138.3281,58.1875 L138.3281,56.7656 C138.3281,56.3281 138.3125,56.2031 138.2188,56.0469 C138.0625,55.7813 137.7813,55.6406 137.4844,55.6406 C137.1875,55.6406 136.9844,55.7344 136.7656,56.0469 L136.5938,55.9688 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="53" x="154.75" y="65.1436">Vehicle</text><line style="stroke:#181818;stroke-width:0.5;" x1="84.5" x2="245.5" y1="76.2969" y2="76.2969"/><line style="stroke:#181818;stroke-width:0.5;" x1="84.5" x2="245.5" y1="84.2969" y2="84.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="151" x="89.5" y="101.292">move(MoveBehavior)</text></g><!--MD5=[d05f3d9fc6108d338bb0c73bde67e857]
+class MoveBehavior--><g id="elem_MoveBehavior"><rect codeLine="7" fill="#F1F1F1" height="64.2969" id="MoveBehavior" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="134" x="7" y="168.2969"/><ellipse cx="22" cy="184.2969" fill="#B4A7E5" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M22.9531,181.0781 L24.6719,181.0781 C25.0625,181.0781 25.25,181.0469 25.375,180.9688 C25.6406,180.8125 25.7813,180.5313 25.7813,180.2344 C25.7813,179.9688 25.6719,179.7031 25.4375,179.5313 C25.2656,179.4219 25.125,179.3906 24.6719,179.3906 L19.5313,179.3906 C19.0938,179.3906 18.9688,179.4063 18.8125,179.5 C18.5625,179.6563 18.4063,179.9531 18.4063,180.2344 C18.4063,180.5156 18.5469,180.7656 18.7656,180.9375 C18.9219,181.0469 19.1094,181.0781 19.5313,181.0781 L21.25,181.0781 L21.25,187.5938 L19.5313,187.5938 C19.0938,187.5938 18.9688,187.6094 18.8125,187.7188 C18.5625,187.875 18.4063,188.1563 18.4063,188.4531 C18.4063,188.7031 18.5469,188.9688 18.7656,189.125 C18.9219,189.25 19.125,189.2969 19.5313,189.2969 L24.6719,189.2969 C25.4219,189.2969 25.7813,189.0156 25.7813,188.4531 C25.7813,188.1719 25.6719,187.9219 25.4375,187.75 C25.2656,187.625 25.125,187.5938 24.6719,187.5938 L22.9531,187.5938 L22.9531,181.0781 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="102" x="36" y="189.1436">MoveBehavior</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="140" y1="200.2969" y2="200.2969"/><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="140" y1="208.2969" y2="208.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="50" x="13" y="225.292">move()</text></g><g id="elem_N"><path d="M176,187.7969 L176,212.9297 A0,0 0 0 0 176,212.9297 L338,212.9297 A0,0 0 0 0 338,212.9297 L338,197.7969 L328,187.7969 L252.211,187.7969 L188.454,108.3979 L244.211,187.7969 L176,187.7969 A0,0 0 0 0 176,187.7969 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><path d="M328,187.7969 L328,197.7969 L338,197.7969 L328,187.7969 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="141" x="182" y="204.8638">MoveBehavior.move()</text></g><!--MD5=[24a0104fb46c6555b3dd88f0353b61a8]
+link Vehicle to MoveBehavior--><g id="link_Vehicle_MoveBehavior"><path codeLine="13" d="M141.801,108.3979 C129.18,125.3199 113.517,146.3186 100.4256,163.8691 " fill="none" id="Vehicle-to-MoveBehavior" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="97.1562,168.2523,105.7435,163.4296,100.1457,164.2444,99.3309,158.6465,97.1562,168.2523" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[d15c158cd2cef90ebbf62fcc11f5c5fc]
+@startuml
+title Dependency
+
+class Vehicle {
+    move(MoveBehavior)
+}
+
+interface MoveBehavior {
+    move()
+}
+
+note "MoveBehavior.move()" as N
+
+Vehicle ..> MoveBehavior
+
+Vehicle .. N
+@enduml
+
+PlantUML version 1.2022.7beta2(Unknown compile time)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>
